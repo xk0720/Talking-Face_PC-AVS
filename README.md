@@ -7,7 +7,7 @@
 
 ### [Project](https://hangz-nju-cuhk.github.io/projects/PC-AVS) | [Paper](https://arxiv.org/abs/2104.11116) | [Demo](https://www.youtube.com/watch?v=lNQQHIggnUg)
 
-
+###
 We propose **Pose-Controllable Audio-Visual System (PC-AVS)**, 
 which achieves free pose control when driving arbitrary talking faces with audios. Instead of learning pose motions from audios, we leverage another pose source video to compensate only for head motions.
 The key is to devise an implicit low-dimension pose code that is free of mouth shape or identity information. 
